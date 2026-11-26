@@ -1,0 +1,6 @@
+/*
+!/.gitignore
+!/README.md
+!/secret_sounds/
+__pycache__/
+*.py[cod]

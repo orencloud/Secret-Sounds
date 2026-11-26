@@ -1,0 +1,347 @@
+{
+  "volume": 0.5041139721870422,
+  "speed_low": 80,
+  "speed_high": 5000,
+  "pitch_low": 0,
+  "pitch_high": 30,
+  "rate_low": 1,
+  "rate_high": 3,
+  "theme": 0,
+  "themes": [
+    {
+      "name": "Default",
+      "operations": {
+        "createPrimitive": {
+          "enabled": true,
+          "clips": [
+            "sounds/2026-11-22 12-25-17_1.mp3"
+          ]
+        },
+        "enterModeling": {
+          "enabled": true,
+          "clips": [
+            "sounds/2026-11-22 12-25-17_2.mp3"
+          ]
+        },
+        "exitModeling": {
+          "enabled": true,
+          "clips": [
+            "sounds/2026-11-22 12-25-17_5.mp3"
+          ]
+        },
+        "loopCut": {
+          "enabled": true,
+          "clips": [
+            "sounds/2026-11-22 12-25-17_3.mp3"
+          ]
+        },
+        "loopCutCount": {
+          "enabled": true,
+          "clips": [
+            "sounds/2026-11-22 12-25-17_6.mp3"
+          ]
+        },
+        "orbit": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_9.mp3"
+          ]
+        },
+        "pan": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_10.mp3"
+          ]
+        },
+        "zoom": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_3.mp3"
+          ]
+        },
+        "confirm": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_1.mp3"
+          ]
+        },
+        "select": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_2.mp3"
+          ]
+        },
+        "extrude": {
+          "enabled": true,
+          "clips": [
+            "sounds/2026-11-22 12-25-17_9.mp3"
+          ]
+        },
+        "edgeMode": {
+          "enabled": true,
+          "clips": [
+            "sounds/2026-11-22 12-25-17_11.mp3"
+          ]
+        },
+        "faceMode": {
+          "enabled": true,
+          "clips": [
+            "sounds/2026-11-22 12-25-17_11.mp3"
+          ]
+        },
+        "uvMode": {
+          "enabled": true,
+          "clips": [
+            "sounds/2026-11-22 12-25-17_11.mp3"
+          ]
+        },
+        "vertexMode": {
+          "enabled": true,
+          "clips": [
+            "sounds/2026-11-22 12-25-17_11.mp3"
+          ]
+        },
+        "undo": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd.mp3"
+          ]
+        },
+        "inset": {
+          "enabled": true,
+          "clips": [
+            "sounds/2026-11-22 12-25-17_9.mp3"
+          ]
+        },
+        "move": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_8.mp3"
+          ]
+        },
+        "rotate": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_11.mp3"
+          ]
+        },
+        "loopCutTarget": {
+          "enabled": true,
+          "clips": [
+            "sounds/2026-11-22 12-25-17_17.mp3"
+          ]
+        },
+        "lockAxis": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_7.mp3"
+          ]
+        },
+        "unlockAxis": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_7.mp3"
+          ]
+        },
+        "delete": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_20.mp3"
+          ]
+        },
+        "duplicate": {
+          "enabled": true,
+          "clips": [
+            "sounds/2026-11-22 12-25-17_4.mp3"
+          ]
+        },
+        "deselectAll": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_5.mp3"
+          ]
+        },
+        "redo": {
+          "enabled": true,
+          "clips": [
+            "sounds/2026-11-22 12-25-17_6.mp3"
+          ]
+        },
+        "cancel": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd.mp3"
+          ]
+        },
+        "scale": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_13.mp3"
+          ]
+        },
+        "correctFaceAttributes": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_6.mp3"
+          ]
+        },
+        "loopSelection": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_2.mp3"
+          ]
+        },
+        "lassoSelect": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_2.mp3"
+          ]
+        },
+        "boxSelect": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_2.mp3"
+          ]
+        },
+        "rotateSnap": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_8.mp3"
+          ]
+        },
+        "scaleSnap": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_2.mp3"
+          ]
+        },
+        "teleport": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_8.mp3"
+          ]
+        },
+        "snapSurface": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_8.mp3"
+          ]
+        },
+        "moveSnap": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_7.mp3"
+          ]
+        },
+        "loopCutSlide": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_8.mp3"
+          ]
+        },
+        "dissolve": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_5.mp3"
+          ]
+        },
+        "fill": {
+          "enabled": true,
+          "clips": [
+            "sounds/2026-11-22 12-25-17_9.mp3"
+          ]
+        },
+        "saveProject": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_14.mp3"
+          ]
+        },
+        "renderStart": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_15.mp3"
+          ]
+        },
+        "arrayModal": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_16.mp3"
+          ]
+        },
+        "modifierValue": {
+          "enabled": false,
+          "clips": [
+            "sounds/sd_5.mp3"
+          ]
+        },
+        "modifierCount": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_18.mp3"
+          ]
+        },
+        "mirrorModal": {
+          "enabled": true,
+          "clips": [
+            "@default"
+          ]
+        },
+        "modifierSpacing": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_8.mp3"
+          ]
+        },
+        "moveStart": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_19.mp3"
+          ]
+        },
+        "rotateStart": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_19.mp3"
+          ]
+        },
+        "scaleStart": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_19.mp3"
+          ]
+        },
+        "coordinates": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_7.mp3"
+          ]
+        },
+        "resetTransform": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd.mp3"
+          ]
+        },
+        "xRay": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_16.mp3"
+          ]
+        },
+        "insetMotion": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_8.mp3"
+          ]
+        },
+        "insetIndividual": {
+          "enabled": true,
+          "clips": [
+            "sounds/sd_19.mp3"
+          ]
+        }
+      }
+    }
+  ]
+}
